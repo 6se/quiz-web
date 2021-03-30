@@ -1,7 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /* background-color: aliceblue; */
-    background-color: #1bf;
+    background-color: #1a5eff;
     /* animation: backgroundColorAnimation 4s infinite;
     animation-timing-function: linear; */
 }
@@ -11,6 +11,13 @@ body {
     33% {background-color: #f1b;}
     67% {background-color: #1bf;}
     100% {background-color: #fb1;}
+} */
+
+/* @keyframes backgroundColorAnimation {
+    0% {background-color: #00022E;}
+    33% {background-color: #FF073A;}
+    67% {background-color: #02066F;}
+    100% {background-color: #02066F;}
 } */
 
 .error {
