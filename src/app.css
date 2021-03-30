@@ -1,7 +1,17 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
+    background-color: #1bf;
+    /* animation: backgroundColorAnimation 4s infinite;
+    animation-timing-function: linear; */
 }
+
+/* @keyframes backgroundColorAnimation {
+    0% {background-color: #fb1;}
+    33% {background-color: #f1b;}
+    67% {background-color: #1bf;}
+    100% {background-color: #fb1;}
+} */
 
 .error {
     color: darkred;
